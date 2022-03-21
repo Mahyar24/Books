@@ -26,7 +26,6 @@ Mahyar
 │   ├── Fluent Python, Luciano Ramalho.
 │   ├── Python Testing with pytest, Brian Okken.
 │   └── Using Asyncio in Python, Caleb Hattingh.
-├── result.txt
 ├── Shell
 │   ├── Bash Pocket Reference 2Nd Ed, Arnold Robbins.
 │   └── Classic Shell Scripting, Arnold Robbins & Nelson H. F. Beebe.
