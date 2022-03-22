@@ -5,16 +5,16 @@ Mahyar
 ├── Data Science
 │   ├── Data Science at the Command Line 2Nd Ed, Jeroen Janssens.
 │   ├── Effective Pandas, Matt Harrison.
+│   ├── Machine Learning
+│   │   ├── Approaching (Almost) Any Machine Learning Problem, Abhishek Thakur.
+│   │   ├── Deep Learning with Python 2Nd Ed, François Chollet.
+│   │   ├── Introduction to Time Series Forecasting with Python, Jason Brownlee.
+│   │   ├── Machine Learning with PyTorch and Sckikit-Learn, Sebastian Raschka & Yuxi (Hayden) Liu & Vahid Mirjalili.
+│   │   ├── The Hundred-Page Machine Learning Book, Andriy Burkov.
+│   │   └── XGBoost with Python, Jason Brownlee.
 │   └── Python for Data Analysis 2Nd Ed, Wes McKinney.
 ├── Docker
 │   └── Docker in Action 2Nd Ed, Jeff Nickoloff & Stephen Kuenzli.
-├── Machine Learning
-│   ├── Approaching (Almost) Any Machine Learning Problem, Abhishek Thakur.
-│   ├── Deep Learning with Python 2Nd Ed, François Chollet.
-│   ├── Introduction to Time Series Forecasting with Python, Jason Brownlee.
-│   ├── Machine Learning with PyTorch and Sckikit-Learn, Sebastian Raschka & Yuxi (Hayden) Liu & Vahid Mirjalili.
-│   ├── The Hundred-Page Machine Learning Book, Andriy Burkov.
-│   └── XGBoost with Python, Jason Brownlee.
 ├── Network
 │   └── Computer Networking: A Top-Down Approach 7th Ed, James F Kurose & Keith W Ross.
 ├── Python
