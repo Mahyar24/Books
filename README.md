@@ -8,10 +8,13 @@ Mahyar
 │   ├── Machine Learning
 │   │   ├── Approaching (Almost) Any Machine Learning Problem, Abhishek Thakur.
 │   │   ├── Deep Learning with Python 2Nd Ed, François Chollet.
+│   │   ├── Hands-On Gradient Boosting with XGBoost and scikit-learn, Corey Wade
 │   │   ├── Introduction to Time Series Forecasting with Python, Jason Brownlee.
+│   │   ├── Machine Learning Design Patterns, Valliappa Lakshmanan & Sara Robinson & Michael Munn
 │   │   ├── Machine Learning with PyTorch and Sckikit-Learn, Sebastian Raschka & Yuxi (Hayden) Liu & Vahid Mirjalili.
-│   │   ├── The Hundred-Page Machine Learning Book, Andriy Burkov.
-│   │   └── XGBoost with Python, Jason Brownlee.
+│   │   ├── Neural Networks from Scratch in Python, Harrison Kinsley & Daniel Kukieła
+│   │   ├── Python Feature Engineering Cookbook, Soledad Galli
+│   │   └── The Hundred-Page Machine Learning Book, Andriy Burkov.
 │   └── Python for Data Analysis 2Nd Ed, Wes McKinney.
 ├── Docker
 │   └── Docker in Action 2Nd Ed, Jeff Nickoloff & Stephen Kuenzli.
