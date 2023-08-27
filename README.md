@@ -6,18 +6,25 @@ Mahyar
 │   ├── Data Science at the Command Line 2Nd Ed, Jeroen Janssens
 │   ├── Effective Pandas, Matt Harrison
 │   ├── Machine Learning
+|   |   ├── Ace the Data Science Interview, Kevin Huo & Nick Singh
 │   │   ├── Approaching (Almost) Any Machine Learning Problem, Abhishek Thakur
 │   │   ├── Deep Learning with Python 2Nd Ed, François Chollet
+|   |   ├── Effective XGBoost, Matt Harrison
 │   │   ├── Hands-On Gradient Boosting with XGBoost and scikit-learn, Corey Wade
 │   │   ├── Introduction to Time Series Forecasting with Python, Jason Brownlee
 │   │   ├── Machine Learning Design Patterns, Valliappa Lakshmanan & Sara Robinson & Michael Munn
+|   |   ├── Machine Learning for Algorithmic Trading, Stefan Jansen
 │   │   ├── Machine Learning with PyTorch and Sckikit-Learn, Sebastian Raschka & Yuxi (Hayden) Liu & Vahid Mirjalili
 │   │   ├── Neural Networks from Scratch in Python, Harrison Kinsley & Daniel Kukieła
 │   │   ├── Python Feature Engineering Cookbook, Soledad Galli
-│   │   └── The Hundred-Page Machine Learning Book, Andriy Burkov
+│   │   ├── The Hundred-Page Machine Learning Book, Andriy Burkov
+|   |   └── The Kaggle Book, Konrad Banachewicz & Luca Massaron
 │   └── Python for Data Analysis 2Nd Ed, Wes McKinney
 ├── Docker
 │   └── Docker in Action 2Nd Ed, Jeff Nickoloff & Stephen Kuenzli
+├── Finance
+|   ├── Options as a Strategic Investment, Lawrence G. McMillan
+|   └── The Intelligent Investor, Benjamin Graham
 ├── Network
 │   └── Computer Networking: A Top-Down Approach 7th Ed, James F Kurose & Keith W Ross
 ├── Python
@@ -37,4 +44,5 @@ Mahyar
 │   └── SQL for Data Scientists, Renee M. P. Teate
 └── Web
     └── Building Data Science Applications with FastAPI, François Voron
+    └── Getting Started with Streamlit for Data Science, Tyler Richards
  ```
