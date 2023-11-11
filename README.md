@@ -16,6 +16,7 @@ Mahyar
 │   │   ├── Machine Learning Design Patterns, Valliappa Lakshmanan & Sara Robinson & Michael Munn
 |   |   ├── Machine Learning for Algorithmic Trading, Stefan Jansen
 │   │   ├── Machine Learning with PyTorch and Sckikit-Learn, Sebastian Raschka & Yuxi (Hayden) Liu & Vahid Mirjalili
+│   │   ├── Modeling Mindsets, Christoph Molnar
 │   │   ├── Neural Networks from Scratch in Python, Harrison Kinsley & Daniel Kukieła
 │   │   ├── Python Feature Engineering Cookbook, Soledad Galli
 │   │   ├── The Hundred-Page Machine Learning Book, Andriy Burkov
