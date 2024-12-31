@@ -11,6 +11,7 @@ Mahyar
 │   │   ├── Deep Learning with Python 2Nd Ed, François Chollet
 │   │   ├── Effective XGBoost, Matt Harrison
 │   │   ├── Hands-On Gradient Boosting with XGBoost and scikit-learn, Corey Wade
+│   │   ├── Interpretable Machine Learning, Christoph Molnar
 │   │   ├── Introduction To Conformal Prediction With Python, Christoph Molnar
 │   │   ├── Introduction to Time Series Forecasting with Python, Jason Brownlee
 │   │   ├── Machine Learning Design Patterns, Valliappa Lakshmanan & Sara Robinson & Michael Munn
